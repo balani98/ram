@@ -1,1 +1,3 @@
 i am hungry
+if you are not hungry
+then drink water
